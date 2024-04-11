@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mmct13
-- 👀 I’m interested in html, css, JavaScript and more
-- 🌱 I’m currently learning React Native 
-- 💞️ I’m looking to collaborate on an React App
+- 👀 I’m interested in JavaScript, PHP and more
+- 🌱 I’m currently learning JAVASCRIPT
+- 💞️ I’m looking to collaborate on an React App or Javascript project
 - 📫 How to reach me marshallchrist@yahoo.com
 
 <!---
