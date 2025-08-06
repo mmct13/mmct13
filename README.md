@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @mmct13<br>👀 I’m interested in JavaScript, PHP and more<br>🌱 I’m currently learning JAVASCRIPT & LARAVEL<br>💞️ I’m looking to collaborate on an React App or Javascript project<br>📫 How to reach me marshallchrist@yahoo.com
+👋 Hi, I’m @mmct13<br>👀 I’m interested in JavaScript, PHP and more<br>🌱 I’m currently learning Java Spring Boot & Angular<br>💞️ I’m looking to collaborate on an React App or Javascript project<br>📫 How to reach me marshallchrist@yahoo.com
 
 
 ## 🌐 Socials:
